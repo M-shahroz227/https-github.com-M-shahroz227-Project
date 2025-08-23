@@ -1,0 +1,239 @@
+[
+  {
+    "ContainingType": "apitestingDatabase.Controllers.UserController",
+    "Method": "CreateUserDataAsync",
+    "RelativePath": "api/User/CreateUserData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "apitestingDatabase.Model.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apitestingDatabase.Controllers.UserController",
+    "Method": "DeleteUserAsync",
+    "RelativePath": "api/User/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apitestingDatabase.Controllers.UserController",
+    "Method": "GetAllUsersAsync",
+    "RelativePath": "api/User/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apitestingDatabase.Controllers.UserController",
+    "Method": "GetUserByIdAsync",
+    "RelativePath": "api/User/GetUserById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apitestingDatabase.Controllers.UserController",
+    "Method": "UpdateUserByIdAsync",
+    "RelativePath": "api/User/UpdateById",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "user",
+        "Type": "apitestingDatabase.Model.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apitestingDatabase.Controllers.UsereducationDetailsController",
+    "Method": "CreateUserDataAsync",
+    "RelativePath": "api/UsereducationDetails/CreateUserData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "apitestingDatabase.Model.UsereducationDetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apitestingDatabase.Controllers.UsereducationDetailsController",
+    "Method": "DeleteUserAsync",
+    "RelativePath": "api/UsereducationDetails/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apitestingDatabase.Controllers.UsereducationDetailsController",
+    "Method": "GetAllUsersAsync",
+    "RelativePath": "api/UsereducationDetails/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apitestingDatabase.Controllers.UsereducationDetailsController",
+    "Method": "GetUserByIdAsync",
+    "RelativePath": "api/UsereducationDetails/GetUserById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apitestingDatabase.Controllers.UsereducationDetailsController",
+    "Method": "UpdateUserByIdAsync",
+    "RelativePath": "api/UsereducationDetails/UpdateById",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "user",
+        "Type": "apitestingDatabase.Model.UsereducationDetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apitestingDatabase.Controllers.UserworkController",
+    "Method": "CreateUserDataAsync",
+    "RelativePath": "api/Userwork/CreateUserData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "apitestingDatabase.Model.Userwork",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apitestingDatabase.Controllers.UserworkController",
+    "Method": "DeleteUserAsync",
+    "RelativePath": "api/Userwork/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apitestingDatabase.Controllers.UserworkController",
+    "Method": "GetAllUsersAsync",
+    "RelativePath": "api/Userwork/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apitestingDatabase.Controllers.UserworkController",
+    "Method": "GetUserByIdAsync",
+    "RelativePath": "api/Userwork/GetUserById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apitestingDatabase.Controllers.UserworkController",
+    "Method": "UpdateUserByIdAsync",
+    "RelativePath": "api/Userwork/UpdateById",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "user",
+        "Type": "apitestingDatabase.Model.Userwork",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
