@@ -40,6 +40,7 @@ namespace apitestingDatabase.Services.UsereducationDetailsService
             {
                 return null;
             }
+            existingUser.id = user.id;
             existingUser.name = user.name; 
             existingUser.degree = user.degree;
             existingUser.passOut = user.passOut;
