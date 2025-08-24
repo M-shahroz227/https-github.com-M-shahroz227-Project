@@ -44,6 +44,7 @@ namespace apitestingDatabase.Services.UserService
             {
                 return null;
             }
+            existingUser.id = user.id; 
             existingUser.name = user.name; 
             existingUser.email = user.email;
             existingUser.address = user.address;
