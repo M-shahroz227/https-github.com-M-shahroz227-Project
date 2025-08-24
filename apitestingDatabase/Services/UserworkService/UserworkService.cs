@@ -40,6 +40,7 @@ namespace apitestingDatabase.Services.UserworkService
             {
                 return null;
             }
+            existingUser.id = user.id;
             existingUser.name = user.name; 
             existingUser.company = user.company; 
             existingUser.job = user.job; 
