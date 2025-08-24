@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\ASPCOREAPI-COLLLECTION\\pokemonwebapi\\apitestingDatabase\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|e:\\aspcoreapi-colllection\\pokemonwebapi\\apitestingdatabase\\apitestingdatabase\\model\\userwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|solutionrelative:apitestingdatabase\\model\\userwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|e:\\aspcoreapi-colllection\\pokemonwebapi\\apitestingdatabase\\apitestingdatabase\\model\\usereducationdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|solutionrelative:apitestingdatabase\\model\\usereducationdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|e:\\aspcoreapi-colllection\\pokemonwebapi\\apitestingdatabase\\apitestingdatabase\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|solutionrelative:apitestingdatabase\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|e:\\aspcoreapi-colllection\\pokemonwebapi\\apitestingdatabase\\apitestingdatabase\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|solutionrelative:apitestingdatabase\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +23,8 @@
       "RelativeMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|solutionrelative:apitestingdatabase\\services\\usereducationdetailsservice\\usereducationdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|e:\\aspcoreapi-colllection\\pokemonwebapi\\apitestingdatabase\\apitestingdatabase\\model\\usereducationdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|solutionrelative:apitestingdatabase\\model\\usereducationdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|e:\\aspcoreapi-colllection\\pokemonwebapi\\apitestingdatabase\\apitestingdatabase\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|solutionrelative:apitestingdatabase\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|e:\\aspcoreapi-colllection\\pokemonwebapi\\apitestingdatabase\\apitestingdatabase\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|solutionrelative:apitestingdatabase\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|e:\\aspcoreapi-colllection\\pokemonwebapi\\apitestingdatabase\\apitestingdatabase\\services\\userworkservice\\userworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|solutionrelative:apitestingdatabase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|e:\\aspcoreapi-colllection\\pokemonwebapi\\apitestingdatabase\\apitestingdatabase\\model\\userwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|solutionrelative:apitestingdatabase\\model\\userwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|e:\\aspcoreapi-colllection\\pokemonwebapi\\apitestingdatabase\\apitestingdatabase\\services\\userworkservice\\iuserworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|solutionrelative:apitestingdatabase\\services\\userworkservice\\iuserworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -69,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|e:\\aspcoreapi-colllection\\pokemonwebapi\\apitestingdatabase\\apitestingdatabase\\controllers\\usereducationdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|solutionrelative:apitestingdatabase\\controllers\\usereducationdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|e:\\aspcoreapi-colllection\\pokemonwebapi\\apitestingdatabase\\apitestingdatabase\\models\\apitestingdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAFE3077-CA0E-4FB8-B023-59BDC586C1D5}|apitestingDatabase\\apitestingDatabase.csproj|solutionrelative:apitestingdatabase\\models\\apitestingdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,20 +78,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 15,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ApitestingDatabaseContext.cs",
-              "DocumentMoniker": "E:\\ASPCOREAPI-COLLLECTION\\pokemonwebapi\\apitestingDatabase\\apitestingDatabase\\Models\\ApitestingDatabaseContext.cs",
-              "RelativeDocumentMoniker": "apitestingDatabase\\Models\\ApitestingDatabaseContext.cs",
-              "ToolTip": "E:\\ASPCOREAPI-COLLLECTION\\pokemonwebapi\\apitestingDatabase\\apitestingDatabase\\Models\\ApitestingDatabaseContext.cs",
-              "RelativeToolTip": "apitestingDatabase\\Models\\ApitestingDatabaseContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T10:03:10.785Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 13,
@@ -122,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\ASPCOREAPI-COLLLECTION\\pokemonwebapi\\apitestingDatabase\\apitestingDatabase\\Program.cs",
               "RelativeDocumentMoniker": "apitestingDatabase\\Program.cs",
@@ -134,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserworkService.cs",
               "DocumentMoniker": "E:\\ASPCOREAPI-COLLLECTION\\pokemonwebapi\\apitestingDatabase\\apitestingDatabase\\Services\\UserworkService\\UserworkService.cs",
               "RelativeDocumentMoniker": "apitestingDatabase\\Services\\UserworkService\\UserworkService.cs",
@@ -146,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IUserService.cs",
               "DocumentMoniker": "E:\\ASPCOREAPI-COLLLECTION\\pokemonwebapi\\apitestingDatabase\\apitestingDatabase\\Services\\UserService\\IUserService.cs",
               "RelativeDocumentMoniker": "apitestingDatabase\\Services\\UserService\\IUserService.cs",
@@ -158,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UserService.cs",
               "DocumentMoniker": "E:\\ASPCOREAPI-COLLLECTION\\pokemonwebapi\\apitestingDatabase\\apitestingDatabase\\Services\\UserService\\UserService.cs",
               "RelativeDocumentMoniker": "apitestingDatabase\\Services\\UserService\\UserService.cs",
@@ -170,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UsereducationDetailsService.cs",
               "DocumentMoniker": "E:\\ASPCOREAPI-COLLLECTION\\pokemonwebapi\\apitestingDatabase\\apitestingDatabase\\Services\\UsereducationDetailsService\\UsereducationDetailsService.cs",
               "RelativeDocumentMoniker": "apitestingDatabase\\Services\\UsereducationDetailsService\\UsereducationDetailsService.cs",
@@ -182,20 +166,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "E:\\ASPCOREAPI-COLLLECTION\\pokemonwebapi\\apitestingDatabase\\apitestingDatabase\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "apitestingDatabase\\Controllers\\UserController.cs",
               "ToolTip": "E:\\ASPCOREAPI-COLLLECTION\\pokemonwebapi\\apitestingDatabase\\apitestingDatabase\\Controllers\\UserController.cs",
               "RelativeToolTip": "apitestingDatabase\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0cAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T14:37:57.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\ASPCOREAPI-COLLLECTION\\pokemonwebapi\\apitestingDatabase\\apitestingDatabase\\appsettings.json",
               "RelativeDocumentMoniker": "apitestingDatabase\\appsettings.json",
@@ -219,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IUsereducationDetailsService.cs",
               "DocumentMoniker": "E:\\ASPCOREAPI-COLLLECTION\\pokemonwebapi\\apitestingDatabase\\apitestingDatabase\\Services\\UsereducationDetailsService\\IUsereducationDetailsService.cs",
               "RelativeDocumentMoniker": "apitestingDatabase\\Services\\UsereducationDetailsService\\IUsereducationDetailsService.cs",
@@ -255,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\ASPCOREAPI-COLLLECTION\\pokemonwebapi\\apitestingDatabase\\apitestingDatabase\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "apitestingDatabase\\Data\\AppDbContext.cs",
@@ -267,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UsereducationDetails.cs",
               "DocumentMoniker": "E:\\ASPCOREAPI-COLLLECTION\\pokemonwebapi\\apitestingDatabase\\apitestingDatabase\\Model\\UsereducationDetails.cs",
               "RelativeDocumentMoniker": "apitestingDatabase\\Model\\UsereducationDetails.cs",
@@ -275,11 +259,12 @@
               "RelativeToolTip": "apitestingDatabase\\Model\\UsereducationDetails.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T13:54:41.317Z"
+              "WhenOpened": "2025-08-19T13:54:41.317Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "Userwork.cs",
               "DocumentMoniker": "E:\\ASPCOREAPI-COLLLECTION\\pokemonwebapi\\apitestingDatabase\\apitestingDatabase\\Model\\Userwork.cs",
               "RelativeDocumentMoniker": "apitestingDatabase\\Model\\Userwork.cs",
@@ -287,11 +272,12 @@
               "RelativeToolTip": "apitestingDatabase\\Model\\Userwork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T13:53:02.026Z"
+              "WhenOpened": "2025-08-19T13:53:02.026Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\ASPCOREAPI-COLLLECTION\\pokemonwebapi\\apitestingDatabase\\apitestingDatabase\\Model\\User.cs",
               "RelativeDocumentMoniker": "apitestingDatabase\\Model\\User.cs",
@@ -299,7 +285,8 @@
               "RelativeToolTip": "apitestingDatabase\\Model\\User.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T13:50:46.841Z"
+              "WhenOpened": "2025-08-19T13:50:46.841Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
